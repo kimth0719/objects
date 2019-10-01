@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8ec0715-052f-453a-a2e4-9efa07874e4e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PbDUms6Re1WF52ddNts2moOBCz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/theater/step5_6" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_6" />
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_5" />
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_4" />
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_3" />
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.theater.step5_1" />
+      <recent name="com.theater.step4_1" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.theater.step5_1" />
+      <recent name="com.theater.step2_1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.theater.Main" />
+      <module name="Step1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ec0715-052f-453a-a2e4-9efa07874e4e" name="Default Changelist" comment="" />
+      <created>1566133921416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566133921416</updated>
+      <workItem from="1566133925929" duration="223000" />
+      <workItem from="1566134170039" duration="11206000" />
+      <workItem from="1566221779288" duration="3604000" />
+      <workItem from="1566475354915" duration="5693000" />
+      <workItem from="1567341287056" duration="5426000" />
+      <workItem from="1568640997821" duration="4481000" />
+      <workItem from="1568728197554" duration="3705000" />
+      <workItem from="1569248865260" duration="2384000" />
+      <workItem from="1569335327254" duration="4350000" />
+      <workItem from="1569931009026" duration="6587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

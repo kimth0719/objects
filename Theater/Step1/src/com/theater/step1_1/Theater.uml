@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="294.875" y="483.0">com.theater.step1.TicketSeller</node>
+    <node x="86.49166666666667" y="483.0">com.theater.step1.Audience</node>
+    <node x="0.0" y="13.5">com.theater.step1.Invitation</node>
+    <node x="305.0055555555556" y="647.0">com.theater.step1.Theater</node>
+    <node x="300.8888888888889" y="0.0">com.theater.step1.Ticket</node>
+    <node x="55.875" y="137.0">com.theater.step1.Bag</node>
+    <node x="294.875" y="189.0">com.theater.step1.TicketOffice</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.theater.step1.Bag" target="com.theater.step1.Invitation">
+      <point x="-82.125" y="-148.0" />
+      <point x="83.25" y="117.0" />
+      <point x="46.0" y="117.0" />
+      <point x="-46.0" y="30.0" />
+    </edge>
+    <edge source="com.theater.step1.Theater" target="com.theater.step1.Audience">
+      <point x="-87.375" y="-57.0" />
+      <point x="334.1305555555556" y="622.0" />
+      <point x="164.49166666666667" y="622.0" />
+      <point x="0.0" y="57.0" />
+    </edge>
+    <edge source="com.theater.step1.Theater" target="com.theater.step1.TicketSeller">
+      <point x="-29.125" y="-57.0" />
+      <point x="392.3805555555556" y="622.0" />
+      <point x="361.875" y="622.0" />
+      <point x="-67.0" y="57.0" />
+    </edge>
+    <edge source="com.theater.step1.Bag" target="com.theater.step1.Ticket">
+      <point x="82.125" y="-148.0" />
+      <point x="247.5" y="117.0" />
+      <point x="345.58888888888885" y="117.0" />
+      <point x="-29.80000000000001" y="43.5" />
+    </edge>
+    <edge source="com.theater.step1.Audience" target="com.theater.step1.Bag">
+      <point x="39.0" y="-57.0" />
+      <point x="203.49166666666667" y="458.0" />
+      <point x="220.125" y="458.0" />
+      <point x="54.75" y="148.0" />
+    </edge>
+    <edge source="com.theater.step1.TicketSeller" target="com.theater.step1.TicketOffice">
+      <point x="67.0" y="-57.0" />
+      <point x="67.0" y="96.0" />
+    </edge>
+    <edge source="com.theater.step1.Theater" target="com.theater.step1.Ticket">
+      <point x="87.37500000000001" y="-57.0" />
+      <point x="508.8805555555556" y="622.0" />
+      <point x="573.375" y="622.0" />
+      <point x="573.375" y="107.0" />
+      <point x="434.98888888888894" y="107.0" />
+      <point x="59.60000000000002" y="43.5" />
+    </edge>
+    <edge source="com.theater.step1.TicketOffice" target="com.theater.step1.Ticket">
+      <point x="67.0" y="-96.0" />
+      <point x="495.875" y="117.0" />
+      <point x="405.18888888888887" y="117.0" />
+      <point x="29.80000000000001" y="43.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="287.0" y="380.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
