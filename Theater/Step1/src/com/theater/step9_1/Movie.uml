@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="647.0" y="828.0">com.theater.step2_1.Customer</node>
+    <node x="633.0" y="219.0">com.theater.step2_1.PercentDiscountPolicy</node>
+    <node x="421.0" y="459.0">com.theater.step2_1.SequenceCondition</node>
+    <node x="418.0" y="828.0">com.theater.step2_1.Money</node>
+    <node x="481.0" y="617.0">com.theater.step2_1.Screening</node>
+    <node x="205.0" y="219.0">com.theater.step2_1.AmountDiscountPolicy</node>
+    <node x="276.5" y="351.0">com.theater.step2_1.DiscountCondition</node>
+    <node x="0.0" y="433.0">com.theater.step2_1.PeriodCondition</node>
+    <node x="0.0" y="617.0">com.theater.step2_1.Movie</node>
+    <node x="330.5" y="0.0">com.theater.step2_1.DiscountPolicy</node>
+    <node x="0.0" y="828.0">com.theater.step2_1.Reservation</node>
+    <node x="0.0" y="246.5">com.theater.step2_1.NoneDiscountPolicy</node>
+    <node x="226.0" y="82.0">com.theater.step2_1.DefaultDiscountPolicy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.theater.step2_1.NoneDiscountPolicy" target="com.theater.step2_1.DefaultDiscountPolicy">
+      <point x="0.0" y="-16.0" />
+      <point x="92.5" y="194.0" />
+      <point x="287.0" y="194.0" />
+      <point x="-122.0" y="43.5" />
+    </edge>
+    <edge source="com.theater.step2_1.PercentDiscountPolicy" target="com.theater.step2_1.DefaultDiscountPolicy">
+      <point x="0.0" y="-43.5" />
+      <point x="844.0" y="194.0" />
+      <point x="531.0" y="194.0" />
+      <point x="122.0" y="43.5" />
+    </edge>
+    <edge source="com.theater.step2_1.AmountDiscountPolicy" target="com.theater.step2_1.DefaultDiscountPolicy">
+      <point x="0.0" y="-43.5" />
+      <point x="0.0" y="43.5" />
+    </edge>
+    <edge source="com.theater.step2_1.DefaultDiscountPolicy" target="com.theater.step2_1.DiscountPolicy">
+      <point x="0.0" y="-43.5" />
+      <point x="0.0" y="16.0" />
+    </edge>
+    <edge source="com.theater.step2_1.SequenceCondition" target="com.theater.step2_1.DiscountCondition">
+      <point x="0.0" y="-43.5" />
+      <point x="530.5" y="408.0" />
+      <point x="410.0" y="408.0" />
+      <point x="44.5" y="16.0" />
+    </edge>
+    <edge source="com.theater.step2_1.PeriodCondition" target="com.theater.step2_1.DiscountCondition">
+      <point x="0.0" y="-69.5" />
+      <point x="200.5" y="408.0" />
+      <point x="321.0" y="408.0" />
+      <point x="-44.5" y="16.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="734.2857142857142" y="440.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
