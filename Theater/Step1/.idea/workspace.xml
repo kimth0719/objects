@@ -17,33 +17,44 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectId" id="1PbDUms6Re1WF52ddNts2moOBCz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/theater/step5_6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/theater/step10_2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_6" />
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_5" />
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_4" />
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_3" />
-      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_2" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.theater.step5_1" />
-      <recent name="com.theater.step4_1" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.theater.step5_1" />
       <recent name="com.theater.step2_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\objects\Theater\Step1\src\com\theater\step10_2" />
+      <recent name="C:\project\objects\Theater\Step1\src\com\theater\step9_2" />
+      <recent name="C:\project\objects\Theater\Step1\src\com\theater\step5_6" />
+      <recent name="C:\project\objects\Theater\Step1\src\com\theater" />
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step5_6" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.theater.step10_1" />
+      <recent name="com.theater.step5_1" />
+      <recent name="com.theater.step4_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\Theater\Step1\src\com\theater\step1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -58,17 +69,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.theater.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.theater.step12_1.Main" />
       <module name="Step1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.theater.step12_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.theater.step10_1.Main" />
+      <module name="Step1" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,10 +119,28 @@
       <workItem from="1569248865260" duration="2384000" />
       <workItem from="1569335327254" duration="4350000" />
       <workItem from="1569931009026" duration="6587000" />
+      <workItem from="1569941654599" duration="9000" />
+      <workItem from="1572522147650" duration="5439000" />
+      <workItem from="1573128323735" duration="10235000" />
+      <workItem from="1573564826322" duration="4360000" />
+      <workItem from="1574588417001" duration="4879000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
